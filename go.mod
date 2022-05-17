@@ -28,7 +28,7 @@ require (
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/imdario/mergo v0.3.8 // indirect
 	github.com/mdlayher/vsock v0.0.0-20190329173812-a92c53d5dcab
-	github.com/miekg/dns v1.1.16
+	github.com/miekg/dns v1.1.25
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
 	github.com/opencontainers/runc v1.0.0-rc9
